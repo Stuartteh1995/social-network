@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanjaybenu/go-social.git"
+    "url": ""
   },
   "author": "Sanjay Chopra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sanjaybenu/go-social/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/sanjaybenu/go-social#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
